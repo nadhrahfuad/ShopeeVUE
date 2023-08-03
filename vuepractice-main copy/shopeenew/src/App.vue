@@ -10,6 +10,9 @@
   <SignUpPage/>
   <ForgotPasswordPage/>
   <WelcomeBackPage/>
+  <HomePage/>
+  <CameraSearchPage/>
+  <SearchCameraResultPage/>
 </template>
 
 <script setup>
@@ -26,8 +29,12 @@
 //import RecoveryPage from './pages/public/RecoveryPage.vue'
 //import NewPasswordPage from './pages/public/NewPasswordPage.vue'
 // import PwResetSuccessPage from './pages/public/PwResetSuccessPage.vue'
-import WelcomeBackPage from './pages/public/WelcomeBackPage.vue'
+//import WelcomeBackPage from './pages/public/WelcomeBackPage.vue'
+//import HomePage from './pages/public/HomePage.vue'
+//import CameraSearchPage from './pages/public/CameraSearchPage.vue'
+import SearchCameraResultPage from './pages/public/SearchCameraResultPage.vue'
 </script>
+
 
 <style>
 #app {

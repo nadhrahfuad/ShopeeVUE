@@ -5,7 +5,7 @@
 defineProps({
     title: {
         type: String,
-        default: 'Title Here'
+        default: '',
     }
 })
 
